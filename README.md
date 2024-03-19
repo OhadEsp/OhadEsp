@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here's a draft profile README.md for your GitHub profile based on the information you provided:
-
 **Ohad Esperansa**
 
 Software Engineer | 8+ Years of Experience
