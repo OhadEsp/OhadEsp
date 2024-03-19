@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here's a draft profile README.md for your GitHub profile based on the information you provided:
+
+**Ohad Esperansa**
+
+Software Engineer | 8+ Years of Experience
+
+LinkedIn: https://www.linkedin.com/in/ohad-esperansa/
+
+**About Me**
+
+I am a software engineer with over 8 years of experience in design and development. I am passionate about writing clean code that adheres to S.O.L.I.D principles and design patterns. I have experience working on full-stack, Infrastructures, and Desktop projects.
+
+**Skills**
+
+* Full-Stack Development
+* Desktop Development
+* Infrastructure Development
+* Clean Code
+* SOLID Principles
+* Design Patterns
+* C# .NET
+* Node.js
+* Express
+* Axios
+* REST API
+* C++
+
+**Feel free to reach out if you have any questions!**
